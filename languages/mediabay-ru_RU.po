@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-03-27 14:03+0500\n"
+"PO-Revision-Date: 2020-03-27 14:03+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+
+#: ../inc/helper.php:38
+msgid "Folders"
+msgstr "Папки"
+
+#: ../inc/helper.php:39
+msgid "Add New"
+msgstr "Добавить новую"
+
+#: ../inc/helper.php:48
+msgid "All Files"
+msgstr "Все файлы"
+
+#: ../inc/helper.php:54 ../inc/sidebar.php:53 ../inc/sidebar.php:239
+msgid "Uncategorized"
+msgstr "Без категории"
+
+#: ../inc/helper.php:89 ../inc/sidebar.php:104
+msgid "Confirm"
+msgstr "Подтвердить"
+
+#: ../inc/helper.php:90 ../inc/sidebar.php:103
+msgid "Cancel"
+msgstr "Отменить"
+
+#: ../inc/sidebar.php:95 ../inc/sidebar.php:123
+msgid "Move 1 file"
+msgstr "Переместить 1 файл"
+
+#: ../inc/sidebar.php:96 ../inc/sidebar.php:124
+msgid "Move"
+msgstr "Переместить"
+
+#: ../inc/sidebar.php:97 ../inc/sidebar.php:125
+msgid "files"
+msgstr "файлов(а)"
+
+#: ../inc/sidebar.php:98
+msgid "New Subfolder"
+msgstr "Новая подпапка"
+
+#: ../inc/sidebar.php:99
+msgid "Clear Media"
+msgstr "Очистить содержимое"
+
+#: ../inc/sidebar.php:100
+msgid "Rename Folder"
+msgstr "Переименовать папку"
+
+#: ../inc/sidebar.php:101
+msgid "Delete Folder"
+msgstr "Удалить папку"
+
+#: ../inc/sidebar.php:102
+msgid "Clear Folder"
+msgstr "Очистить папку"
+
+#: ../inc/sidebar.php:105
+msgid "Are you confident?"
+msgstr "Вы уверены?"
+
+#: ../inc/sidebar.php:106
+msgid "All media inside this folder gets moved to \"Uncategorized\" folder."
+msgstr "Все медиафайлы в этой папке будут перемещены в папку «Без категории»."
+
+#: ../inc/sidebar.php:107
+msgid ""
+"This folder contains subfolders, you should delete the subfolders first!"
+msgstr "Эта папка содержит подпапки, вы должны сначала удалить подпапки!"
+
+#: ../inc/sidebar.php:108
+msgid "Unfortunately, you already have a folder with that name."
+msgstr "К сожалению, у вас уже есть папка с таким именем."
+
+#: ../inc/sidebar.php:109
+msgid "Please, enter your folder name!"
+msgstr "Пожалуйста, введите название вашей папки!"
+
+#: ../inc/sidebar.php:110
+msgid "item"
+msgstr "элемент"
+
+#: ../inc/sidebar.php:111
+msgid "items"
+msgstr "элементы"
+
+#: ../inc/sidebar.php:134
+msgid "All categories"
+msgstr "Все категории"
+
+#: ../inc/sidebar.php:162
+msgid "No media files found."
+msgstr "Медиа-файлы не найдены."
+
+#: ../inc/sidebar.php:228
+msgid "New files go to chosen category"
+msgstr "Новые файлы будут перемещены в выбранную категорию"
